@@ -11,3 +11,7 @@
 
 <p align="left">
 </p>
+
+𝕎𝕙𝕪 𝕕𝕚𝕕 𝕪𝕠𝕦 𝕕𝕠 𝕚𝕥?
+
+<img width="1000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/19f94cf7-1d8f-4771-a296-0120c6f40e0b" />
